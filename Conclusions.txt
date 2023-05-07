@@ -1,0 +1,9 @@
+On a brief analysis of the data I wanted to do looks into which conservation type gets seen the most to see
+if it correlates to the population levels and what parks see the most action. I started by filling in
+null values for conservation status to unknown to make the readability a little easier for people looking
+at the chart. When looking at the data, animals that are in recovery have a lot more sightings than animals
+in any of the dangerous categories. The three dangerous categories all share a similar mean but as you go up the highs 
+get higher and higher lows as well. This makes sense since animals that are having population issues will be harder
+to see. As for parks Yellowstone is way ahead in how many observations occur while there. We don't have this data
+but this would make me want to view the amount of visitors each park gets. This could help us see if there is a 
+correlation between amount of observations and people there.
